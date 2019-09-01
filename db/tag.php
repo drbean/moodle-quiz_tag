@@ -55,7 +55,9 @@ defined('MOODLE_INTERNAL') || die();
 $tagareas = array(
     array(
         'itemtype' => 'question', // Questions.
-        // 'component' => 'core_question',
+        'component' => 'quiz_tag',
+	'collection' => 'week1',
         'multiplecontexts' => true,
+        'showstandard' => core_tag_tag::HIDE_STANDARD,
     ),
 );

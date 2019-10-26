@@ -56,8 +56,8 @@ $tagareas = array(
     array(
         'itemtype' => 'question', // Questions.
         'component' => 'quiz_tag',
-	'collection' => 'week1',
-        'multiplecontexts' => true,
+	// 'collection' => '3_8cs',
+        'multiplecontexts' => false,
         'showstandard' => core_tag_tag::HIDE_STANDARD,
     ),
 );

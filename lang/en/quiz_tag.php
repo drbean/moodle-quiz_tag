@@ -27,6 +27,8 @@ defined('MOODLE_INTERNAL') || die();
 
 $string['tagarea_question'] = 'quiz question';
 $string['tagcollection_week1'] = 'Week 1 tags for address';
+$string['tagcollection_speaking/writing_2_reading/picture'] = 'Week 2 tags for TOEIC speaking/writing';
+$string['tagcollection_3_8cs'] = 'Week 3 8cs tags for correspondence';
 
 $string['pluginname'] = 'quiz tags';
 $string['reporttag'] = 'tag report';

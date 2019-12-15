@@ -30,7 +30,18 @@ $string['tagcollection_week1'] = 'Week 1 tags for address';
 $string['tagcollection_speaking/writing_2_reading/picture'] = 'Week 2 tags for TOEIC speaking/writing';
 $string['tagcollection_3_8cs'] = 'Week 3 8cs tags for correspondence';
 
-$string['pluginname'] = 'quiz tags';
-$string['reporttag'] = 'tag report';
-$string['tagreport'] = 'tag report';
-$string['tag'] = 'tag results';
+$string['tagcollection_correspondence_week1'] = 'Week 1 correspondence tags for address';
+$string['tagcollection_correspondence_8cs'] = 'Week 3 8cs tags for correspondence';
+$string['tagcollection_correspondence_week7'] = 'Week 7 letter, strategy tags for correspondence';
+$string['tagcollection_7_letter_strategy'] = 'Week 7 letter, strategy tags for correspondence';
+$string['tagcollection_writing_8_song'] = 'Week 8 song tags for writing';
+
+// $string['pluginname'] = 'quiz tags';
+// $string['reporttag'] = 'tag report';
+// $string['tagreport'] = 'tag report';
+// $string['tag'] = 'tag results';
+
+$string['pluginname'] = 'quiz tags writing';
+$string['reporttag'] = 'writing tag report';
+$string['tagreport'] = 'writing tag report';
+$string['tag'] = 'writing tag results';

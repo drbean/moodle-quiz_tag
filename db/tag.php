@@ -67,4 +67,11 @@ $tagareas = array(
         'multiplecontexts' => false,
         'showstandard' => core_tag_tag::HIDE_STANDARD,
     ),
+    array(
+        'itemtype' => 'question', // Questions.
+        'component' => 'quiz_tag_writing',
+        // 'multiplecontexts' => true,
+        'multiplecontexts' => false,
+        'showstandard' => core_tag_tag::HIDE_STANDARD,
+    ),
 );

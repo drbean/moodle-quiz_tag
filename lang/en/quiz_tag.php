@@ -25,7 +25,7 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['tagarea_question'] = 'quiz question';
+$string['tagarea_question'] = 'correspondence final';
 
 $string['tagcollection_correspondence_week1'] = 'Week 1 correspondence tags for address';
 $string['tagcollection_correspondence_8cs'] = 'Week 3 8cs tags for correspondence';
@@ -33,7 +33,7 @@ $string['tagcollection_correspondence_week7'] = 'Week 7 letter, strategy tags fo
 $string['tagcollection_7_letter_strategy'] = 'Week 7 letter, strategy tags for correspondence';
 $string['tagcollection_correspondence_fall_final'] = 'Fall final tags for correspondence';
 
-$string['pluginname'] = 'quiz tags correspondence';
+$string['pluginname'] = 'quiz tags correspondence final';
 $string['reporttag'] = 'correspondence tag report';
 $string['tagreport'] = 'correspondence tag report';
 $string['tag'] = 'correspondence tag results';

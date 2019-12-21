@@ -24,8 +24,8 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'quiz_tag';
+$plugin->component = 'quiz_tag_correspondence_final';
 $plugin->release = '0.1.0';
-$plugin->version = 2019122100;
+$plugin->version = 2019122101;
 $plugin->requires = 2017051500;
 $plugin->maturity = MATURITY_ALPHA;

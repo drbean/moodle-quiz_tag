@@ -31,6 +31,7 @@ $string['tagcollection_correspondence_week1'] = 'Week 1 correspondence tags for 
 $string['tagcollection_correspondence_8cs'] = 'Week 3 8cs tags for correspondence';
 $string['tagcollection_correspondence_week7'] = 'Week 7 letter, strategy tags for correspondence';
 $string['tagcollection_7_letter_strategy'] = 'Week 7 letter, strategy tags for correspondence';
+$string['tagcollection_correspondence_fall_final'] = 'Fall final tags for correspondence';
 
 $string['pluginname'] = 'quiz tags correspondence';
 $string['reporttag'] = 'correspondence tag report';

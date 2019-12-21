@@ -56,7 +56,7 @@ $tagareas = array(
     array(
         'itemtype' => 'question', // Questions.
         'component' => 'quiz_tag',
-	// 'collection' => '3_8cs',
+	'collection' => 'correspondence_fall_final',
         'multiplecontexts' => false,
         'showstandard' => core_tag_tag::HIDE_STANDARD,
     ),

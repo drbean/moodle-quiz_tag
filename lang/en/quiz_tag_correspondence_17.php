@@ -30,3 +30,5 @@ $string['tagarea_question'] = 'correspondence Week 17';
 $string['tagcollection_correspondence_fall_17'] = 'Fall Week 17 tags for correspondence';
 
 $string['pluginname'] = 'quiz tags correspondence 17';
+
+$string['tag_correspondence_17'] = 'Again for 17, What is this string, "tag_correspondence_2+15" for';

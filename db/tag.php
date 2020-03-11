@@ -55,8 +55,8 @@ defined('MOODLE_INTERNAL') || die();
 $tagareas = array(
     array(
         'itemtype' => 'question', // Questions.
-        'component' => 'quiz_tag_anime_2',
-	'collection' => 'anime_spring_2',
+        'component' => 'quiz_tag_correspondence_4',
+	'collection' => 'correspondence_spring_4',
 	'searchable' => true,
         'multiplecontexts' => false,
         'showstandard' => core_tag_tag::HIDE_STANDARD,

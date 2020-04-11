@@ -55,8 +55,8 @@ defined('MOODLE_INTERNAL') || die();
 $tagareas = array(
     array(
         'itemtype' => 'question', // Questions.
-        'component' => 'quiz_tag_correspondence_7',
-	'collection' => 'correspondence_spring_7',
+        'component' => 'quiz_tag_correspondence_8',
+	'collection' => 'correspondence_spring_8',
 	'searchable' => true,
         'multiplecontexts' => false,
         'showstandard' => core_tag_tag::HIDE_STANDARD,

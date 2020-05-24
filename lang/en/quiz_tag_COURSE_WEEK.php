@@ -25,10 +25,10 @@
 
 defined('MOODLE_INTERNAL') || die();
 
-$string['tagarea_question'] = 'correspondence Week 13';
+$string['tagarea_question'] = 'correspondence Week 14';
 
-$string['tagcollection_correspondence_spring_13'] = 'Spring Week 13 tags for correspondence';
+$string['tagcollection_correspondence_spring_14'] = 'Spring Week 14 tags for correspondence';
 
-$string['pluginname'] = 'quiz tag correspondence 13';
+$string['pluginname'] = 'quiz tag correspondence 14';
 
-$string['tag_correspondence_13'] = 'Results report for "tag_correspondence_13"';
+$string['tag_correspondence_14'] = 'Results report for "tag_correspondence_14"';

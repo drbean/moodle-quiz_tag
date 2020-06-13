@@ -15,17 +15,20 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * Plugin version and other meta-data are defined here.
+ * Plugin strings are defined here.
  *
  * @package     quiz_tag
- * @copyright   2017 Dr Bean <drbean@cpan.org>
+ * @category    string
+ * @copyright   2019 Dr Bean <drbean@cpan.org>
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
 defined('MOODLE_INTERNAL') || die();
 
-$plugin->component = 'quiz_tag_correspondence_17';
-$plugin->release = '0.1.0';
-$plugin->version = 2020061300;
-$plugin->requires = 2017051500;
-$plugin->maturity = MATURITY_ALPHA;
+$string['tagarea_question'] = 'correspondence Week 16';
+
+$string['tagcollection_correspondence_spring_16'] = 'Spring Week 16 tags for correspondence';
+
+$string['pluginname'] = 'quiz tag correspondence 16';
+
+$string['tag_correspondence_16'] = 'Results report for "tag_correspondence_16"';
